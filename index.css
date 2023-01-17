@@ -1,0 +1,10 @@
+.main {
+    color: orange;
+}
+
+.success {
+    background-color: aqua;
+}
+.error {
+    background-color: rgba(0, 0, 0, 0.128);
+}
